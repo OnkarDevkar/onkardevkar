@@ -21,6 +21,10 @@
 
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<div align="center">
+  <h2>🎯 About Me</h2>
+</div>
+
 ```python
 class DataAnalyst:
     def __init__(self):
@@ -38,7 +42,7 @@ class DataAnalyst:
 
 me = DataAnalyst()
 print(me.summary())
-```
+
 
 ### 👨‍🎓 Who I Am
 
