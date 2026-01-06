@@ -122,21 +122,22 @@ A collection of Python-based data visualization projects that focus on storytell
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Organization | 📅 Year | 🔗 Credential |
-|:-----------------|:----------------|:--------|:--------------|
-| **Data Analytics Essentials** | Infosys Springboard | 2024 | [View](#) |
-| **Deloitte Data Analytics Job Simulation** | Forage | 2024 | [View](#) |
-| **SQL for Data Science** | Coursera | 2024 | [View](#) |
-| **Python for Data Analysis** | Coursera | 2024 | [View](#) |
-| **Power BI Fundamentals** | Udemy | 2024 | [View](#) |
-| **Python 3.4.3 Training** | IIT Bombay | 2023 | Score: 70% |
-| **Data Visualization Course** | Online Platform | 2024 | [View](#) |
-| **SQL Training** | MySQL, MS-SQL Server | 2024 | [View](#) |
-| **GCC-TBC English Typing - 30 WPM** | GCC-TBC | 2023 | [Result](Result1) |
-| **GCC-TBC English Typing - 40 WPM** | GCC-TBC | 2023 | [Result](Result2) |
-| **Internship** | Studio CIT | 2024 | [Certificate](#) |
+| 🎓 Certification | 🏢 Organization | 📅 Year |
+|:-----------------|:----------------|:--------|
+| **Data Analytics Essentials** | Infosys Springboard | 2024 |
+| **Deloitte Data Analytics Job Simulation** | Forage | 2024 |
+| **SQL for Data Science** | Coursera | 2024 |
+| **Python for Data Analysis** | Coursera | 2024 |
+| **Power BI Fundamentals** | Udemy | 2024 |
+| **Python 3.4.3 Training** | IIT Bombay | 2023 |
+| **Data Visualization Course** | Online Platform | 2024 |
+| **SQL Training** | MySQL, MS-SQL Server | 2024 |
+| **GCC-TBC English Typing - 30 WPM** | GCC-TBC | 2023 |
+| **GCC-TBC English Typing - 40 WPM** | GCC-TBC | 2023 |
+| **Internship** | Studio CIT | 2024 |
 
 </div>
+
 
 ### 📜 Additional Certifications
 
