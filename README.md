@@ -2,16 +2,16 @@
 
 # 👨‍💻 Onkar Devkar
 
-### 🎓 AI & Data Science Engineering Student | 📊 Data Analyst | 🚀 Problem Solver
+### 🎓 AI & Data Science Engineering Student | 📊 Data Analyst | 🚀 Problem Solver | Learning Machine Learning and Data Science
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkar-devkar-318a54348)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkardevkar444@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnkarDevkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://onkardevkar.github.io/MY_PORTFOLIO-/)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=OnkarDevkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -26,7 +26,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Onkar Devkar"
         self.role = "Data Analyst"
-        self.location = "Nārnaund, Haryana, IN"
+        self.location = "Pune, Maharashtra, IN"
         self.education = "B.Tech - AI & Data Science"
         self.current_company = "Infosys Springboard (Intern)"
         
@@ -87,49 +87,13 @@ me.say_hi()
 <table>
 <tr>
 <td width="50%">
-
-### 📊 Sales Analytics Dashboard
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Interactive Power BI dashboard analyzing sales trends, customer behavior, and revenue insights
-
-**[View Project →](https://github.com/YOUR_USERNAME/project1)**
-
-</td>
-<td width="50%">
-
-### 🐍 Python EDA Project
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-Comprehensive exploratory data analysis on real-world datasets with insights and visualizations
-
-**[View Project →](https://github.com/YOUR_USERNAME/project2)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ SQL Portfolio
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Complex SQL queries solving business problems with optimized performance
-
-**[View Project →](https://github.com/YOUR_USERNAME/project3)**
-
-</td>
-<td width="50%">
-
 ### 📈 Data Visualization Suite
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Collection of data visualization projects showcasing storytelling through data
 
-**[View Project →](https://github.com/YOUR_USERNAME/project4)**
+**[View Project →](https://github.com/OnkarDevkar/Data-Visualization)**
 
 </td>
 </tr>
