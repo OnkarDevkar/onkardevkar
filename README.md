@@ -38,75 +38,206 @@ class DataAnalyst:
 
 me = DataAnalyst()
 print(me.summary())
+```
 
-👨‍🎓 Who I Am
+### 👨‍🎓 Who I Am
 
-I am an AI & Data Science engineering student with a strong interest in
-Data Analytics and Business Intelligence. I enjoy working with real-world
-datasets to extract insights, identify trends, and communicate results clearly.
+I am an AI & Data Science engineering student with a strong interest in Data Analytics and Business Intelligence. I enjoy working with real-world datasets to extract insights, identify trends, and communicate results clearly.
 
-💼 What I Do
+### 💼 What I Do
 
-📊 Design interactive Power BI dashboards
+- 📊 Design interactive Power BI dashboards
+- 🐍 Perform data analysis using Python (Pandas, NumPy)
+- 🗄️ Write optimized SQL queries for structured datasets
+- 📈 Convert raw data into meaningful business insights
 
-🐍 Perform data analysis using Python (Pandas, NumPy)
+### 🎯 Currently Focusing On
 
-🗄️ Write optimized SQL queries for structured datasets
+- SQL portfolio projects
+- Power BI reporting & dashboards
+- Exploratory Data Analysis (EDA)
+- ETL concepts & analytics-oriented ML basics
 
-📈 Convert raw data into meaningful business insights
+### ⚡ Quick Facts
 
-🎯 Currently Focusing On
+- 🔭 **Currently Working On:** Real-world data analytics projects & SQL portfolio
+- 🌱 **Learning:** Advanced EDA, ETL pipelines, ML for Analytics
+- 👯 **Open to Collaborate:** Data Analytics | Business Intelligence | Open Source
+- 💬 **Ask Me About:** Python, SQL, Power BI, Data Visualization
+- ⚡ **Fun Fact:** I turn coffee into insights ☕📊
 
-SQL portfolio projects
+---
 
-Power BI reporting & dashboards
-
-Exploratory Data Analysis (EDA)
-
-ETL concepts & analytics-oriented ML basics
-
-⚡ Fun Fact: I turn coffee ☕ into insights 📊
-
-- 🔭 **Currently Working On:** Real-world data analytics projects & SQL portfolio - 🌱 **Learning:** Advanced EDA, ETL pipelines, ML for Analytics - 👯 **Open to Collaborate:** Data Analytics | Business Intelligence | Open Source - 💬 **Ask Me About:** Python, SQL, Power BI, Data Visualization - ⚡ **Fun Fact:** I turn coffee into insights ☕📊 --- ## 🛠️ Tech Stack & Tools <div align="center"> ### 💻 Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ### 📊 Data Analysis & Visualization ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ### 🔧 Tools & Platforms ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </div> ---
-
-🚀 Featured Project
-📊 Data Visualization Suite
-
-A collection of Python-based data visualization projects that focus on
-storytelling through data using Matplotlib and Seaborn.
-
-🔗 https://github.com/OnkarDevkar/Data-Visualisation
-
-📈 GitHub Statistics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnkarDevkar&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarDevkar&layout=compact&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarDevkar&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarDevkar&theme=tokyo-night"/> </div>
-
-🏆 Certifications
-Certification	Organization	Year
-Data Analytics Essentials	Infosys Springboard	2024
-Deloitte Data Analytics Job Simulation	Forage	2024
-SQL for Data Science	Coursera	2024
-Python for Data Analysis	Coursera	2024
-Power BI Fundamentals	Udemy	2024
-
-🤝 Open To Opportunities
-✅ Data Analytics Internships
-✅ Fresher / Entry-Level Data Analyst Roles
-✅ Business Intelligence Projects
-✅ Open Source Collaboration
-
-
-📬 Contact Me
-📧 Email: onkardevkar444@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/onkar-devkar-318a54348
-
-🐍 Contribution Snake
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-🌟 “Data is the new oil, but insights are the refined fuel.”
 
-⭐ If you like my work, consider starring my repositories
+### 💻 Languages
 
-© 2024 Onkar Devkar – Always Learning, Always Growing 🌱
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div> ```
+### 📊 Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Visualization Suite
+
+A collection of Python-based data visualization projects that focus on storytelling through data using Matplotlib and Seaborn.
+
+🔗 [View Project](https://github.com/OnkarDevkar/Data-Visualisation)
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnkarDevkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarDevkar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarDevkar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarDevkar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Training
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Organization | 📅 Year | 🔗 Credential |
+|:-----------------|:----------------|:--------|:--------------|
+| **Data Analytics Essentials** | Infosys Springboard | 2024 | [View](#) |
+| **Deloitte Data Analytics Job Simulation** | Forage | 2024 | [View](#) |
+| **SQL for Data Science** | Coursera | 2024 | [View](#) |
+| **Python for Data Analysis** | Coursera | 2024 | [View](#) |
+| **Power BI Fundamentals** | Udemy | 2024 | [View](#) |
+| **Python 3.4.3 Training** | IIT Bombay | 2023 | Score: 70% |
+| **Data Visualization Course** | Online Platform | 2024 | [View](#) |
+| **SQL Training** | MySQL, MS-SQL Server | 2024 | [View](#) |
+| **GCC-TBC English Typing - 30 WPM** | GCC-TBC | 2023 | [Result](Result1) |
+| **GCC-TBC English Typing - 40 WPM** | GCC-TBC | 2023 | [Result](Result2) |
+| **Internship** | Studio CIT | 2024 | [Certificate](#) |
+
+</div>
+
+### 📜 Additional Certifications
+
+- ✅ **GCC-TBC English Typing Certificates** - Achieved 30 WPM & 40 WPM proficiency
+- ✅ **Python Training by IIT Bombay** - Comprehensive Python 3.4.3 training with 70% score
+- ✅ **Professional SQL Training** - Covered MySQL and MS-SQL Server
+- ✅ **Data Visualization Specialist** - Advanced visualization techniques and best practices
+- ✅ **Studio CIT Internship** - Hands-on experience in real-world projects
+
+---
+
+## 💼 Experience
+
+### 🔹 Intern at Infosys Springboard
+**Duration:** 2024 - Present
+
+- Working on data analytics projects and building analytical skills
+- Gaining hands-on experience with industry-standard tools and practices
+- Developing business intelligence solutions and dashboards
+
+### 🔹 Intern at Studio CIT
+**Duration:** 2024
+
+- Completed internship focused on practical data applications
+- Collaborated with team members on technical projects
+- Enhanced technical and professional skills
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+**Specialization:** Artificial Intelligence & Data Science  
+**Location:** Maharashtra, India  
+**Status:** Currently Pursuing
+
+---
+
+## 🤝 Open To Opportunities
+
+<div align="center">
+
+✅ **Data Analytics Internships**  
+✅ **Fresher / Entry-Level Data Analyst Roles**  
+✅ **Business Intelligence Projects**  
+✅ **Open Source Collaboration**
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+📧 **Email:** [onkardevkar444@gmail.com](mailto:onkardevkar444@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/onkar-devkar-318a54348](https://www.linkedin.com/in/onkar-devkar-318a54348)
+
+💼 **Portfolio:** [onkardevkar.github.io/MY_PORTFOLIO-/](https://onkardevkar.github.io/MY_PORTFOLIO-/)
+
+🐱 **GitHub:** [github.com/OnkarDevkar](https://github.com/OnkarDevkar)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://github.com/OnkarDevkar/OnkarDevkar/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Data is the new oil, but insights are the refined fuel."
+
+⭐ **If you like my work, consider starring my repositories!**
+
+---
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+
+**© 2024 Onkar Devkar – Always Learning, Always Growing 🌱**
+
+</div>
