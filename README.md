@@ -203,17 +203,7 @@ A collection of Python-based data visualization projects that focus on storytell
 
 </div>
 
----
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://github.com/OnkarDevkar/OnkarDevkar/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 <div align="center">
 
@@ -224,7 +214,6 @@ A collection of Python-based data visualization projects that focus on storytell
 ---
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
 **© 2024 Onkar Devkar – Always Learning, Always Growing 🌱**
 
