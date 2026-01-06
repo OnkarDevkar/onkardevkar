@@ -108,16 +108,19 @@ A collection of Python-based data visualization projects that focus on storytell
 
 ## 📈 GitHub Statistics
 
+## 📈 GitHub Statistics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnkarDevkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarDevkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnkarDevkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarDevkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarDevkar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=OnkarDevkar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -126,6 +129,7 @@ A collection of Python-based data visualization projects that focus on storytell
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarDevkar&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
 
 ---
 
