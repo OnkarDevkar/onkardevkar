@@ -4,7 +4,8 @@
 
 ### 🎓 AI & Data Science Engineering Student | 📊  Data Analyst | 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+and+ML+ engineer;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+and+ML+Engineer;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Always+Learning+and+Growing+%F0%9F%93%88" alt="Typing SVG" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkar-devkar-318a54348)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkardevkar444@gmail.com)
