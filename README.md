@@ -2,7 +2,7 @@
 
 # 👨‍💻 Onkar Devkar
 
-### 🎓 AI & Data Science Engineering Student | 📊 Aspiring Data Analyst | 🚀 Problem Solver
+### 🎓 AI & Data Science Engineering Student | 📊 Aspiring Data Analyst, Scientist and ML engineer | 🚀 Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 
