@@ -105,19 +105,6 @@ A collection of Python-based data visualization projects that focus on storytell
 
 🔗 [View Project](https://github.com/OnkarDevkar/Data-Visualisation)
 
----
-
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarDevkar&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
 
 ## 🏆 Certifications & Training
 
