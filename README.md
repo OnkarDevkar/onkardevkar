@@ -203,6 +203,6 @@ A collection of Python-based data visualization projects that focus on storytell
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 
-**© 2024 Onkar Devkar – Always Learning, Always Growing 🌱**
+**© 2026 Onkar Devkar – Always Learning, Always Growing 🌱**
 
 </div>
